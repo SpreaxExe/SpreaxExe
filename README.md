@@ -7,13 +7,9 @@
 
 - 🔭 I’m currently working on [Miami Vice RP](https://www.miamivicerp.pt/)
 
-- 🌱 I’m currently learning **JavaScript/React/Back-End**
-
-- 👯 I’m looking to collaborate on [Miami Vice RP](https://safky.tebex.io/)
+- 👯 I’m collaborating on [SafkyDEV](https://safky.tebex.io/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SpreaxExe/](https://github.com/SpreaxExe/)
-
-- 💬 Ask me about **Front-End**
 
 - 📫 How to reach me **spreax.exe@gmail.com**
 
